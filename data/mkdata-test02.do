@@ -19,3 +19,12 @@ end
 gen n = x^2
 
 summarize
+
+input a b c
+12 3 3 
+4 4 4 
+7 7 7
+3 4 5 
+99 99 23
+73 37 73
+end
